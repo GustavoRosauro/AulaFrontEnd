@@ -1,0 +1,5 @@
+git init 
+git remote add <url>
+git add . //comentário irá adicionar os documentos ao git 
+git commit -m"se comentário"
+git push origin <branch que você deseja criar> //Sugestão master
